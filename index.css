@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightseagreen;
+    font-family: sans-serif,monospace;
+}
+
+.container{
+    text-align: center;
+}
+
